@@ -11,3 +11,5 @@ If you want run the scripts:
 **```tsc filename.ts```**
 
 ---
+🟢 **Hey, if you have some opportunity for me, let me know!**<br>
+✉️ rnasviana.contato@gmail.com
