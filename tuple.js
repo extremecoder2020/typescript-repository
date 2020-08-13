@@ -1,0 +1,3 @@
+var user;
+user = ['Raphael', 'Viana', 1989];
+console.log(user);
